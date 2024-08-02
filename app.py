@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 from streamlit_option_menu import option_menu
 
-# Load the trained model (make sure the path to your model is correct)
+# Load the trained model
 model = joblib.load('dt_model_compressed_high.pkl')
 
 # Function to get user inputs
