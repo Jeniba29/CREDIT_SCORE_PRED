@@ -1,1 +1,8 @@
 # CREDIT_SCORE_PRED
+The objective of this project is to develop a robust predictive model for credit score classification to enhance the efficiency of financial institutions in evaluating credit applications. By leveraging a diverse dataset containing demographic, financial, and behavioral features, the model aims to classify applicants into three credit risk categories: Poor, Standard, and Good. 
+
+It follows a structured approach beginning with the setup of the project environment and the collection of relevant data. Data preprocessing techniques were employed to cleanse the dataset, handle missing values, and address outliers. Exploratory Data Analysis (EDA) was conducted to uncover key insights and understand the distribution of credit scores.
+
+Several machine learning algorithms were explored, and models were trained and optimized through hyperparameter tuning. While the Random Forest model exhibited the highest accuracy, practical constraints necessitated the selection of the Decision Tree model for deployment due to its manageable file size. The selected model underwent rigorous validation using cross-validation techniques to ensure its generalizability and reliability.
+
+This project underscores the application of data science and machine learning in credit risk assessment, aiming to streamline the credit approval process, minimize default risks, and enhance overall credit management strategies.
