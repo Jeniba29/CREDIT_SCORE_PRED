@@ -1,4 +1,4 @@
-# CREDIT_SCORE_PRED
+# CREDIT_SCORE_CLASSIFICATION
 The objective of this project is to develop a robust predictive model for credit score classification to enhance the efficiency of financial institutions in evaluating credit applications. By leveraging a diverse dataset containing demographic, financial, and behavioral features, the model aims to classify applicants into three credit risk categories: Poor, Standard, and Good. 
 
 It follows a structured approach beginning with the setup of the project environment and the collection of relevant data. Data preprocessing techniques were employed to cleanse the dataset, handle missing values, and address outliers. Exploratory Data Analysis (EDA) was conducted to uncover key insights and understand the distribution of credit scores.
